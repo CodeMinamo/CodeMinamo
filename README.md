@@ -1,4 +1,4 @@
-![logo](https://media2.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=790b7611e3962f840d0bc3020e36f4a7f2a18480cf548c23&rid=giphy.gif&ct=g)
+![logo](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-7.gif)
 <h1 align="center">Hello, I'm Gopal krushna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
