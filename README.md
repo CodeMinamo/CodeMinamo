@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Gopal krushna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif"></img>
+
 - 🔭 I’m currently working on [Cloning Paytm](https://codeminamo.github.io/Paytm-clone/)
 
 - 🌱 I’m currently learning **Java and Python**
