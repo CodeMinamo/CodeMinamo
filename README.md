@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Gopal krushna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)"></img>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"></img>
 
 - 🔭 I’m currently working on [Cloning Paytm](https://codeminamo.github.io/Paytm-clone/)
 
