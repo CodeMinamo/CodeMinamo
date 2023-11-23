@@ -1,5 +1,5 @@
 ![logo](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-7.gif)
-<h1 align="center">Hello, I'm Gopal krushna</h1>
+<h1 align="center">Hello, I'm Gopal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"></img>
